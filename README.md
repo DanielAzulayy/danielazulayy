@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+
+<a href="https://app.daily.dev/danielazulayy"><img src="https://api.daily.dev/devcards/888337862de047f9bc0309fe7dd4e1a0.png?r=veo" width="400" alt="Daniel Azulay's Dev Card"/></a>
+
 <!--
 **DanielAzulayy/DanielAzulayy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
